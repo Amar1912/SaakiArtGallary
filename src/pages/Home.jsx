@@ -60,19 +60,19 @@ export default function Home() {
            {/* Buttons */}
            <div className="flex flex-wrap gap-4 mt-9">
 
-             <a
-               href="/creations"
+             <Link
+               to="/creations"
                className="inline-flex items-center justify-center px-7 py-4 rounded-full bg-terracotta-600 text-white text-sm font-bold tracking-wide hover:bg-terracotta-700 transition-all duration-300 hover:-translate-y-1 shadow-lg shadow-terracotta-600/20"
              >
                EXPLORE OUR CREATIONS
-             </a>
+             </Link>
 
-             <a
-               href="/custom-order"
+             <Link
+               to="/custom-order"
                className="inline-flex items-center justify-center px-7 py-4 rounded-full border border-espresso-900/20 bg-white/80 backdrop-blur-sm text-espresso-900 text-sm font-bold tracking-wide hover:border-terracotta-500 hover:text-terracotta-700 transition-all duration-300"
              >
                CREATE SOMETHING CUSTOM
-             </a>
+             </Link>
 
            </div>
 
