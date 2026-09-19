@@ -222,7 +222,7 @@ Thank you!`;
 
             {/* =================================================
                 PRODUCT 1 — BIRTHDAY DECORATIONS
-                Image: /public/img/img2.jpg
+                Image: /img/img2.jpg
                 ================================================= */}
 
             <div className="group bg-white rounded-3xl overflow-hidden border border-clay-200 shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300">
@@ -306,7 +306,7 @@ Thank you!`;
 
             {/* =================================================
                 PRODUCT 2 — GIFT HAMPER
-                Image: /public/img/img3.jpg
+                Image: /img/img3.jpg
                 ================================================= */}
 
             <div className="group bg-white rounded-3xl overflow-hidden border border-clay-200 shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300">
